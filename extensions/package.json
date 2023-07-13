@@ -16,7 +16,7 @@
     "markdown-it-front-matter": "^0.2.1",
     "request-light": "^0.4.0",
     "rimraf": "^2.6.3",
-    "semver": "5.5.1",
+    "semver": "5.7.2",
     "typescript": "^4.2.0-dev.20201119",
     "typescript-formatter": "7.1.0",
     "typescript-vscode-sh-plugin": "^0.6.14",
